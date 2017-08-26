@@ -1,0 +1,7 @@
+name: CommandBlockFilter
+main: commandBlockFilter.Main
+version: 1
+commands:
+  cbf:
+    description: CommandBlockFinder command
+    usage: "Usage: /cbf"

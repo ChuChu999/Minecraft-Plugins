@@ -1,0 +1,3 @@
+name: AutoUnloadChunks
+main: autoUnloadChunks.Main
+version: 1

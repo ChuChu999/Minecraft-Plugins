@@ -1,0 +1,3 @@
+name: PlayerCommandFilter
+main: playerCommandFilter.Main
+version: 1

@@ -1,0 +1,35 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                       Format                         | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Use 2 spaces for indenting!
+
+# Words:
+# - "[Word 1]":
+#   - "[Command 1]"
+#   - "[Command 2]"
+# - "[Word 2]":
+#   - "[Command 1]"
+#   - "[Command 2]"
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+############################################################
+
+# All Commands MUST START WITH a "/"
+# Use "%sender" to use sender name
+# Use "%pm" to send sender a message(Supports Color Codes!)
+# Color Code Guide: http://ess.khhq.net/mc/
+
+Words:
+- "Saw Joo":
+  - "/%pm &b&lYou guessed the &6&lSECRET &b&lword!"
+  - "/shot give %sender Forcefield"
+- "Di Se Fut":
+  - "/%pm &aYou have a &9&lBIG &b&lFAT &d&lBUTT!"
+- "Crispy Fat":
+  - "%pm &aPho Binh's &dspecialty!"

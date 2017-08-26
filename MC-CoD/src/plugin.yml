@@ -1,0 +1,7 @@
+name: MC-CoD
+main: mcCoD.Main
+version: 1
+commands:
+  cod:
+    description: MC-CoD Commands
+    usage: /cod [stats | timer | maps]

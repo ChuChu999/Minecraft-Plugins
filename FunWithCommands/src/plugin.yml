@@ -1,0 +1,9 @@
+name: FunWithCommands
+main: funWithCommands.Main
+version: 1
+commands:
+  test:
+    description: Test Command
+    usage: /test [Command]
+    permission: FunWithCommands.test
+    permission-message: You don't have permission

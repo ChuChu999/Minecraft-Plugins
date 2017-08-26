@@ -1,0 +1,8 @@
+name: RotationTP
+main: rotationTP.Main
+version: 1
+commands:
+  rottp:
+    description: TP with Rotation
+    permission: rottp
+    usage: /rotTP [X] [Y] [Z] [Yaw] [Pitch] [Target Player] [World]

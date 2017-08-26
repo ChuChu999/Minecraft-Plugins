@@ -1,0 +1,3 @@
+name: AutoRespawn
+main: autoRespawn.Main
+version: 1

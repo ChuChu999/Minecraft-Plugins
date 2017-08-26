@@ -1,0 +1,7 @@
+name: Suicide
+main: suicide.Main
+version: 1
+commands:
+  suicide:
+    description: Commits suicide
+    usage: /suicide
