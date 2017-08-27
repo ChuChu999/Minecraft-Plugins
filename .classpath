@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AutoRespawn/src"/>
+	<classpathentry kind="src" path="AutoUnloadChunks/src"/>
+	<classpathentry kind="src" path="BetterSleep/src"/>
+	<classpathentry kind="src" path="CommandBlockFilter/src"/>
+	<classpathentry kind="src" path="FunWithCommands/src"/>
+	<classpathentry kind="src" path="HidePlayerName/src"/>
+	<classpathentry kind="src" path="ItemBlacklist/src"/>
+	<classpathentry kind="src" path="JoinItem/src"/>
+	<classpathentry kind="src" path="LoginTP/src"/>
+	<classpathentry kind="src" path="MC-CoD/src"/>
+	<classpathentry kind="src" path="NoDamageDelay/src"/>
+	<classpathentry kind="src" path="PlayerCommandFilter/src"/>
+	<classpathentry kind="src" path="RapidFire/src"/>
+	<classpathentry kind="src" path="RotationTP/src"/>
+	<classpathentry kind="src" path="StandingOnTP/src"/>
+	<classpathentry kind="src" path="Suicide/src"/>
+	<classpathentry kind="src" path="WordFilter/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
