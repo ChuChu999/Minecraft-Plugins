@@ -16,4 +16,4 @@ Java plugins that customize a Minecraft server for my younger brother and his fr
 * **RotationTP** - teleports a player to a specified location with parameters for yaw and pitch
 * **StandingOnTP** - teleports a player to a specified location if the player steps on a certain block
 * **Suicide** - allow players to respawn if they get lost
-* **WordFilter** - blacklists specified words for player chat
+* **WordFilter** - blacklists specified words from player chat
