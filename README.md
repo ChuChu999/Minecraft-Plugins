@@ -2,7 +2,7 @@
 Java plugins that customize a Minecraft server for my younger brother and his friends
 
 * **AutoRespawn** - automatically respawns the player when they die
-* **AutoUnloadChunks** - automatically unload unsused chunks upon player disconnecting from the server
+* **AutoUnloadChunks** - automatically unload unsused chunks when player disconnects from the server for optimization
 * **BetterSleep** - instead of requiring all players to sleep for the night to pass, only one player needs to go to bed
 * **CommandBlockFilter** - blacklists certain commands from being used in a command block
 * **FunWithCommands** - proof of concept for making custom commands
