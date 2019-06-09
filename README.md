@@ -1,5 +1,5 @@
 # Minecraft-Plugins
-Plugins for Spigot (https://www.spigotmc.org/wiki/about-spigot) that customize a Minecraft server for my younger brother and his friends
+Plugins for [Spigot](https://www.spigotmc.org/wiki/about-spigot) that customize a Minecraft server for my younger brother and his friends
 
 * **AutoRespawn** - automatically respawns the player when they die
 * **AutoUnloadChunks** - automatically unload unsused chunks when player disconnects from the server for optimization
